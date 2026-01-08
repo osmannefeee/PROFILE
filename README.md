@@ -1,5 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB0Z3R4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw60YIVoqHglL6ef82/giphy.gif" width="30px"> Selam, ben [osmannefeee]!
-
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB0Z3R4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw60YIVoqHglL6ef82/giphy.gif" width="30px"> Selam, ben Osman Efe!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=150&section=header&text=Full%20Stack%20Developer&fontSize=40&animation=fadeIn" width="100%" />
 </p>
