@@ -8,7 +8,7 @@
 - **Frontend:** HTML5, CSS3, JavaScript
 
 ### 🐍 Kod Yılanım (Günlük Aktivitem)
-![Snake animation](https://raw.githubusercontent.com/osmannefeee/profile/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/osmannefeee/PROFİLE/output/github-contribution-grid-snake.svg)
 
 
 
